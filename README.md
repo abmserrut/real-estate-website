@@ -79,7 +79,7 @@ Through this project I practiced and reinforced:
 
 ## 🔗 Live Demo
 
-Coming soon...
+- [real-estate-website-d.netlify.app](https://real-estate-website-d.netlify.app/)
 
 ---
 
